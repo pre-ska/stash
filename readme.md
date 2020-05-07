@@ -4,8 +4,10 @@
 
 ## Opera browser extension
 
-### Save pages for later reading. Supports thumbnail view list for better visual experience or simple list of pages
+### Save pages for later reading.
+
+### Supports sidebar view with thumbnails list and dedicated tab view with thumbnails grid
 
 <p align="center">
-  <img width="612" height="356" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/05/208105/2.5-rev1/images/6f0bc24206c31b34f1f98fbf1d8dec29/e0d363bac868b297d17c78259f41a283.jpg">
+  <img width="918" height="496" src="https://i.imgur.com/fSPHhd2.png">
 </p>
