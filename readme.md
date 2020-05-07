@@ -6,7 +6,7 @@
 
 ### Save pages for later reading.
 
-### Supports sidebar view with thumbnails list and dedicated tab view with thumbnails grid
+### Supports sidebar view with thumbnails list and dedicated tab view with animated thumbnails grid
 
 <p align="center">
   <img width="918" height="496" src="https://i.imgur.com/fSPHhd2.png">
