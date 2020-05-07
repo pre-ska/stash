@@ -1,0 +1,254 @@
+{
+  "back": {
+    "message": "Назад"
+  },
+  "confirm1": {
+    "message": "Обриши све странице?"
+  },
+  "confirm2": {
+    "message": "Обриши све посећене странице?"
+  },
+  "credits": {
+    "message": "Заслуге"
+  },
+  "ctf": {
+    "message": "Клик за освежавање"
+  },
+  "ctx": {
+    "message": "V7 Stash Додај / Уклони"
+  },
+  "ctx2": {
+    "message": "V7 Stash Отвори / Затвори"
+  },
+  "dd2": {
+    "message": "Обриши све"
+  },
+  "dd3": {
+    "message": "Обриши посећене само"
+  },
+  "dd4": {
+    "message": "Прикажи непосећене"
+  },
+  "dd6": {
+    "message": "Подешавање странице"
+  },
+  "dd8": {
+    "message": "Преглед листе"
+  },
+  "dd9": {
+    "message": "Сликовни преглед"
+  },
+  "del": {
+    "message": "Обриши"
+  },
+  "early_t_m": {
+    "message": "Раније овог месеца"
+  },
+  "l7d": {
+    "message": "Задњих 7 дана"
+  },
+  "lm_c": {
+    "message": "V7 Stash за Chrome"
+  },
+  "lm_f": {
+    "message": "V7 Stash за Firefox"
+  },
+  "lm_o": {
+    "message": "V7 Stash за Opera"
+  },
+  "m_1": {
+    "message": "Јануар"
+  },
+  "m_2": {
+    "message": "Фебруар"
+  },
+  "m_3": {
+    "message": "Март"
+  },
+  "m_4": {
+    "message": "Април"
+  },
+  "m_5": {
+    "message": "Мај"
+  },
+  "m_6": {
+    "message": "Јун"
+  },
+  "m_7": {
+    "message": "Јул"
+  },
+  "m_8": {
+    "message": "Август"
+  },
+  "m_9": {
+    "message": "Септембар"
+  },
+  "m_10": {
+    "message": "Октобар"
+  },
+  "m_11": {
+    "message": "Новембар"
+  },
+  "m_12": {
+    "message": "Децембар"
+  },
+  "ont": {
+    "message": "Отвори нову страницу"
+  },
+  "opis": {
+    "message": "Сачувај страницу за касније читање"
+  },
+  "otv": {
+    "message": "Open V7 Stash у страница приказу"
+  },
+  "ovs": {
+    "message": "Отвори V7 Stash бочну траку"
+  },
+  "set_alert1": {
+    "message": "Погрешна датотека! Одабери правилну V7 Stash датотеку."
+  },
+  "set_alert2": {
+    "message": "Увезена је стара V7 Stash датотека."
+  },
+  "set_alert3": {
+    "message": "Због некомпатибилности, слике није могуће приказати."
+  },
+  "set_changelog": {
+    "message": "Измене"
+  },
+  "set_donate": {
+    "message": "Донирај"
+  },
+  "set_e1": {
+    "message": "Извези"
+  },
+  "set_entypo": {
+    "message": "Листа (главна икона) је део Entypo пиктограма аутора"
+  },
+  "set_how_to": {
+    "message": "Упутства"
+  },
+  "set_i1": {
+    "message": "Увези"
+  },
+  "set_my_addons": {
+    "message": "Моји додаци"
+  },
+  "set_npp": {
+    "message": "Сав код је написан у"
+  },
+  "set_op1": {
+    "message": "Увек отвори у новој картици са левим кликом"
+  },
+  "set_op2": {
+    "message": "Отвори у новој картици са Ctrl + леви клик (Cmd + леви клик на Mac)"
+  },
+  "set_op3": {
+    "message": "Додај наредбу у контексни изборник"
+  },
+  "set_op4": {
+    "message": "Тамна тема"
+  },
+  "set_op5": {
+    "message": "Аутоматски затвори бочну траку када изгуби фокус"
+  },
+  "set_op5_1": {
+    "message": "Ово ће затворити бочну траку ако кликнеш негде изван ње"
+  },
+  "set_op6": {
+    "message": "Отвори нову картицу поред тренутне"
+  },
+  "set_op7": {
+    "message": "Отвори странице са 'Drag-Out' у новој активној страници"
+  },
+  "set_p": {
+    "message": "V7 Stash подешавања"
+  },
+  "set_pnink": {
+    "message": "Сва графика (осим претходно наведене) је направљена са"
+  },
+  "set_s2g": {
+    "message": "Гиф примери су направљени са"
+  },
+  "set_stats": {
+    "message": "Статистика"
+  },
+  "set_trStats": {
+    "message": "Обриши старије од"
+  },
+  "set_transNfo": {
+    "message": "Ако желиш превести овај додатак на свој језик, упуство како то учинити можеш пронаћи"
+  },
+  "set_transNfo1": {
+    "message": "овде"
+  },
+  "set_translators": {
+    "message": "Преводиоци:"
+  },
+  "set_trash": {
+    "message": "Смеће"
+  },
+  "set_trop1": {
+    "message": "Очисти смеће"
+  },
+  "set_trop2": {
+    "message": "Врати одабрано"
+  },
+  "set_version": {
+    "message": "верзија"
+  },
+  "set_w1": {
+    "message": "спремљених страница"
+  },
+  "set_w2": {
+    "message": "Старије од..."
+  },
+  "set_w3": {
+    "message": "7 дана"
+  },
+  "set_w4": {
+    "message": "15 дана"
+  },
+  "set_w5": {
+    "message": "30 дана"
+  },
+  "set_w6": {
+    "message": "60 дана"
+  },
+  "set_w7": {
+    "message": "90 дана"
+  },
+  "set_w8": {
+    "message": "Број страница"
+  },
+  "settings": {
+    "message": "Подешавања"
+  },
+  "sph": {
+    "message": "Тражи..."
+  },
+  "today": {
+    "message": "Данас"
+  },
+  "tr_emty_1": {
+    "message": "Овде можеш пронаћи обрисане странице,"
+  },
+  "tr_emty_2": {
+    "message": "али само за тренутну сесију прегледника"
+  },
+  "v7": {
+    "message": "V7 Stash"
+  },
+  "v7add": {
+    "message": "Додај у V7 Stash"
+  },
+  "v7remove": {
+    "message": "Уклони из V7 Stash"
+  },
+  "v7s": {
+    "message": "V7 Stash бочна трака"
+  },
+  "yesterday": {
+    "message": "Јучер"
+  }
+}

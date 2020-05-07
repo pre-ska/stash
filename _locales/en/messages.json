@@ -1,0 +1,254 @@
+{
+  "back": {
+    "message": "Back"
+  },
+  "confirm1": {
+    "message": "Delete all pages?"
+  },
+  "confirm2": {
+    "message": "Delete all visited pages?"
+  },
+  "credits": {
+    "message": "Credits"
+  },
+  "ctf": {
+    "message": "Click to refresh"
+  },
+  "ctx": {
+    "message": "V7 Stash Add / Remove"
+  },
+  "ctx2": {
+    "message": "V7 Stash Open / Close"
+  },
+  "dd2": {
+    "message": "Delete all"
+  },
+  "dd3": {
+    "message": "Delete visited only"
+  },
+  "dd4": {
+    "message": "Show unvisited"
+  },
+  "dd6": {
+    "message": "Options page"
+  },
+  "dd8": {
+    "message": "List view"
+  },
+  "dd9": {
+    "message": "Thumbnails view"
+  },
+  "del": {
+    "message": "Delete"
+  },
+  "early_t_m": {
+    "message": "Earlier this month"
+  },
+  "l7d": {
+    "message": "Last 7 days"
+  },
+  "lm_c": {
+    "message": "V7 Stash for Chrome"
+  },
+  "lm_f": {
+    "message": "V7 Stash for Firefox"
+  },
+  "lm_o": {
+    "message": "V7 Stash for Opera"
+  },
+  "m_1": {
+    "message": "January"
+  },
+  "m_2": {
+    "message": "February"
+  },
+  "m_3": {
+    "message": "March"
+  },
+  "m_4": {
+    "message": "April"
+  },
+  "m_5": {
+    "message": "May"
+  },
+  "m_6": {
+    "message": "June"
+  },
+  "m_7": {
+    "message": "July"
+  },
+  "m_8": {
+    "message": "August"
+  },
+  "m_9": {
+    "message": "September"
+  },
+  "m_10": {
+    "message": "October"
+  },
+  "m_11": {
+    "message": "November"
+  },
+  "m_12": {
+    "message": "December"
+  },
+  "ont": {
+    "message": "Open in new tab"
+  },
+  "opis": {
+    "message": "Save pages for later reading"
+  },
+  "otv": {
+    "message": "Open V7 Stash in tab view"
+  },
+  "ovs": {
+    "message": "Open V7 Stash sidebar"
+  },
+  "set_alert1": {
+    "message": "Wrong file! Please choose correct V7 Stash file."
+  },
+  "set_alert2": {
+    "message": "This is a old V7 Stash file."
+  },
+  "set_alert3": {
+    "message": "Due to incompatibility, images are not available."
+  },
+  "set_changelog": {
+    "message": "Changelog"
+  },
+  "set_donate": {
+    "message": "Donate"
+  },
+  "set_e1": {
+    "message": "Export"
+  },
+  "set_entypo": {
+    "message": "Leaf (main icon) is part of Entypo pictograms by"
+  },
+  "set_how_to": {
+    "message": "How to..."
+  },
+  "set_i1": {
+    "message": "Import"
+  },
+  "set_my_addons": {
+    "message": "My addons"
+  },
+  "set_npp": {
+    "message": "All coding is done in"
+  },
+  "set_op1": {
+    "message": "Always open in new tab with left click"
+  },
+  "set_op2": {
+    "message": "Open in new tab with Ctrl + left click (Cmd + left click on Mac)"
+  },
+  "set_op3": {
+    "message": "Add context menu command"
+  },
+  "set_op4": {
+    "message": "Dark theme"
+  },
+  "set_op5": {
+    "message": "Auto-close sidebar on blur"
+  },
+  "set_op5_1": {
+    "message": "This will close sidebar if you click somewhere outside of it"
+  },
+  "set_op6": {
+    "message": "Open new tab next to current"
+  },
+  "set_op7": {
+    "message": "Open 'Drag-Out' pages in new active tab"
+  },
+  "set_p": {
+    "message": "V7 Stash Settings"
+  },
+  "set_pnink": {
+    "message": "All the graphics (except previously mentioned) is made with"
+  },
+  "set_s2g": {
+    "message": "Gif exmples are made with "
+  },
+  "set_stats": {
+    "message": "Stats"
+  },
+  "set_trStats": {
+    "message": "Delete older than"
+  },
+  "set_transNfo": {
+    "message": "if you wish to translate extension to your language, please download instruction files "
+  },
+  "set_transNfo1": {
+    "message": "from here"
+  },
+  "set_translators": {
+    "message": "Translators:"
+  },
+  "set_trash": {
+    "message": "Trash"
+  },
+  "set_trop1": {
+    "message": "Clear trash"
+  },
+  "set_trop2": {
+    "message": "Restore selected"
+  },
+  "set_version": {
+    "message": "version "
+  },
+  "set_w1": {
+    "message": "stashed pages"
+  },
+  "set_w2": {
+    "message": "Older than..."
+  },
+  "set_w3": {
+    "message": "7 days"
+  },
+  "set_w4": {
+    "message": "15 days"
+  },
+  "set_w5": {
+    "message": "30 days"
+  },
+  "set_w6": {
+    "message": "60 days"
+  },
+  "set_w7": {
+    "message": "90 days"
+  },
+  "set_w8": {
+    "message": "Number of pages"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "sph": {
+    "message": "Search..."
+  },
+  "today": {
+    "message": "Today"
+  },
+  "tr_emty_1": {
+    "message": "Here you can find your deleted pages,"
+  },
+  "tr_emty_2": {
+    "message": "but only during current browser session"
+  },
+  "v7": {
+    "message": "V7 Stash"
+  },
+  "v7add": {
+    "message": "Add to V7 Stash"
+  },
+  "v7remove": {
+    "message": "Remove from V7 Stash"
+  },
+  "v7s": {
+    "message": "V7 Stash Sidebar"
+  },
+  "yesterday": {
+    "message": "Yesterday"
+  }
+}

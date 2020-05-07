@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title data-i18n="set_p"></title>
+    <link rel="stylesheet" type="text/css" href="options.css">
+    <meta http-equiv="content-type" content="text/html; charset=utf8">
+</head>
+<body>
+    <div id="header">
+        <div id="podloga"></div>
+        
+		<div id="podloga2">
+            <div id="pod_gl">
+                <div id="box_t">
+                    <div id="logo"></div>
+                    <div id="title" data-i18n="v7"></div>
+                    <div id="ver">
+					<span  data-i18n="set_version"></span><span> 2.5</span>
+					</div>
+                </div>
+            </div>
+        </div>
+		
+		<div id="trop" class="tropC" >
+			<div id="trop1" class="trBtn_off" data-i18n="set_trop1"></div>
+			<div id="trop2" class="trBtn_off" data-i18n="set_trop2"></div>
+		</div>
+   
+	</div>
+    <div id="menu">
+        <div id="m1" class="mBtn" data-r="settings">
+            <div id="m1_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="settings"></div >
+        </div>
+        <div id="m7" class="mBtn" data-r="trash">
+            <div id="m7_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_trash"></div >
+        </div>
+		<div id="m2" class="mBtn" data-r="log">
+            <div id="m2_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_changelog"></div >
+        </div>
+		<div id="m8" class="mBtn" data-r="stats">
+            <div id="m8_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_stats"></div >
+        </div>
+		<div id="m3" class="mBtn" data-r="how">
+            <div id="m3_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_how_to"></div >
+        </div>
+		<div id="m4" class="mBtn" data-r="cred">
+            <div id="m4_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="credits"></div >
+        </div>
+        <div id="m6" class="mBtn" data-r="donate">
+            <div id="m6_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_donate"></div>
+        </div>
+		<div id="m5" class="mBtn">
+            <div id="m5_img" class="m_img"></div>
+            <div class="m_dn" data-i18n="set_my_addons"></div >
+        </div>
+    </div>
+
+<!--     <div id="LM">
+		<div id="c_btn" class="sBtn"></div>
+        <div id="f_btn" class="sBtn"></div>
+		<div id="o_btn" class="sBtn"></div>
+    </div> -->
+
+	<div id="con">
+        <div id="pan">
+            <div id="settings" class="panClass">
+                <p></p>                <br />
+                <div id="impExp">
+                    <div id="fakeImp" class="grBtn" data-i18n="set_i1" style="margin-left: 20px;"></div>
+                    <div id="exp" class="grBtn" data-i18n="set_e1" style="float:right; margin-right: 20px;"></div>
+                </div>
+
+                <div class="sep2"></div>
+				<div id="opPH">
+					<div id="op1" class="boxA boxE" data-i18n="set_op1"></div><br />
+					<div id="op2" class="boxA boxE" data-i18n="set_op2"></div><br />
+					<div id="op3" class="boxA boxE" data-i18n="set_op3"></div><br />
+					<div id="op4" class="boxA boxE" data-i18n="set_op4"></div><br />
+					<!-- <div id="op5" class="boxA boxE" data-i18n="set_op5"></div><br /> -->
+					<div id="op6" class="boxA boxE" data-i18n="set_op6"></div><br />
+					<div id="op7" class="boxA boxE" data-i18n="set_op7"></div><br />
+				</div>
+            </div>
+			
+            <div id="trash" class="panClass"></div>
+			
+			<div id="stats" class="panClass">
+
+				<div id="box">
+					<div id="fr">
+						<div id="sum" class="ib">&Sigma; =</div>
+						<div id="pr" class="ib">
+							<div id="bn" class="sb"></div>
+						</div>
+					</div>
+				</div>
+				
+				<div id="table"></div>
+			
+			</div>
+
+            <div id="log" class="panClass">
+                <h3><span data-i18n="set_version"></span> 2.5 - <span class="versionDate">1583490343000</span></h3>
+				<li>Fixed toolbar icons bug. New chromium version changed the way SVG files are rendered</li>
+				<div class="sep2"></div>
+                <h3><span data-i18n="set_version"></span> 2.4 - <span class="versionDate">1555929668000</span></h3>
+				<li>cosmetic changes</li>
+				<div class="sep2"></div>
+			
+                <h3><span data-i18n="set_version"></span> 2.3 - <span class="versionDate">1549427735000</span></h3>
+				<li>fixed export feature, file was txt instead of json</li>
+				<li>you can still see some weird name for exported file, <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=579563" target="_blank">unfortunately this is a chromium bug</a>
+				
+				
+				</li>
+				<li>basically, if you have some extension that is dealing with downloads, all other extensions will have bugged file name</li>
+				
+				<div class="sep2"></div>
+			
+                <h3><span data-i18n="set_version"></span> 2.2 - <span class="versionDate">1542628800000</span></h3>
+				<li>added list view -.-</li>
+				<li>you can switch between list view and thumbnails view on drop-down menu</li>
+
+				<div class="sep2"></div>
+                <h3><span data-i18n="set_version"></span> 2.1 - <span class="versionDate">1542024000000</span></h3>
+				<li>fix for previous update</li>
+				<li>If you are updating from 1.6.5, extension will auto-export old data</li>
+
+				<div class="sep2"></div>
+                <h3><span data-i18n="set_version"></span> 2.0 - <span class="versionDate">1541764800000</span></h3>
+                <li><b>New update... big one</b></li>
+				<li>This is a new and better version of V7 Stash</li>
+				<li>Many things are fundamentally changed, including how extension deals with images</li>
+				<li>Your old stashed pages are still here but images won't be available, I'm sorry for that</li>
+				<li>The best way to restore your images is to visit stashed page and re-save it with click in address bar...</li>
+				<li>... or simply drag any image on that stashed page in sidebar and extension will replace it</li>
+				<li>check <b>How to...</b> section for other info</li>
+
+				<div class="sep2"></div>
+                <h3>1.7 // 26-10-2016</h3>
+                <li>small fix</li>
+               
+				<div class="sep2"></div>
+                <h3>1.6.5 // 05-08-2016</h3>
+                <li>added Dutch translation</li>
+				<li>when opening stash tab, speed dial page will be used, if existing</li>
+                
+				<div class="sep2"></div>
+                <h3>1.6 // 11-04-2016</h3>
+                <li>new options page design</li>
+                <li>added donations page (on left menu)</li>
+                
+				<div class="sep2"></div>
+                <h3>1.5 // 22-02-2016</h3>
+                <li>added tab view, similar to speed dial in which you can see your stashed pages as thumbnails</li>
+                <li>new icons for tab feature, in V7 Stash sidebar panel on top menu, and in Opera toolbar next to address bar</li>
+
+                <li>changed some logic in image creation, it could take longer to see new preview, but it's safer this way</li>
+                <li>added keyboard shortcuts (suggestions) for opening sidebar (Alt+S), tab view (Alt-T) and export V7 Stash (Alt+S). You can customize them on Opera internal shortcuts page </li>
+                <li>added close button on sidebar (far right on top menu)</li>
+                
+				<div class="sep2"></div>
+                <h3>1.2 // 21-09-2015</h3>
+                <li>added German translation</li>
+				
+				<div class="sep2"></div>
+                <h3>1.1 // 27-08-2015</h3>
+                <li>fixed stash preview after drop on bookmarks or notes icon</li>
+                
+				<div class="sep2"></div>
+                <h3>1.0 // 11-08-2015</h3>
+                <li>added Russian and Portuguese(BR) language</li>
+                <li>fixed transparent hero images (black background)</li>
+                <li>some code cleanup</li>
+                
+				<div class="sep2"></div>
+                <h3>0.9.9 // 05-08-2015</h3>
+                <li>fixed zooming (from bottom bar)</li>
+                <li>forced open graph images for hero (if defined)</li>
+                <li>import will accept only .json files (and show them in open file dialog)</li>
+                <li>fixed date on tooltip info (it was one month off, previously saved pages will keep that bugged date)</li>
+                
+				<div class="sep2"></div>
+                <h3>0.9.85 // 10-07-2015</h3>
+                <li>small fix</li>
+                
+				<div class="sep2"></div>
+                <h3>0.9.8 // 09-07-2015</h3>
+                <li>first upload</li>
+
+            </div>
+			
+            <div id="how" class="panClass">
+                <br />
+                <ul>
+                    <s>
+
+                        <li>The most convenient way to save page is to simply click on the leaf icon in address bar.</li>
+                    </s>
+                    <li>Things changed, so extensions can't use address bar icons anymore.</li>
+                    <li>The most convenient way to save page is to simply click on the leaf icon on toolbar.</li>
+					<br />
+					<img src="img/how_01.png"  style="margin-left: 160px;"/>
+					<br /><br />
+					<li>Click on the <b>gray icon will add page</b> to V7 Stash, while click on the <b>green icon will remove it</b>.</li>
+					<li>Another way to add or remove single pages from V7 stash is trough right click context menu anywhere on the page.
+						You need to enable it in Options page first.</li><br />
+					<a href='https://imgur.com/uwbLGmc' target='_blank'>Add/remove example gif</a><br /><br />
+					<li><b>Sidebar doesn't need to be opened to add/remove pages from V7 Stash</b></li>
+					
+					<div class="sep2"></div>
+					<li>V7 Stash is primarily made to be used within Opera sidebar, but there is also tab view with bigger thumbnails in a grid, similar to speed dial. You can open tab view by clicking on second button in sidebar</li>
+					<br />
+					<img src="img/how_02.png"/> <br />
+					
+					<div class="sep2"></div>					
+					<li>Extension will try to find best image for stashed item.<br />
+					If you don't like chosen image, you can replace it with another image.<br />
+					Simply drag new image (from page) and drop it in sidebar on desired stash item</li>
+					<br />
+					<a href='https://imgur.com/hmO7evj' target='_blank'>Replace image example gif</a>
+					
+					<div class="sep2"></div>
+					<li>Right click stashed item (in sidebar and in tab view) for context menu</li><br />
+					<img src="img/o5.png"  style="margin-left: 155px;"/><br />
+					
+					<div class="sep2"></div>
+					<li><b>Drag-out</b> feature.<br />
+						One of the fastest and easiest ways to open stashed page in new tab is to simply drag it out of the sidebar and drop it somewhere on the right.<br /> 
+						
+						<a href='https://imgur.com/6fC3bm9' target='_blank'>Drag-out example gif</a></i>
+					</li>
+					
+					<div class="sep2"></div>
+					<li><b>Trash</b> will keep your deleted items during single browser session.<br />
+						Once you close browser, it's not possible to restore them anymore.<br />
+						To restore items, select them and click <b>Restore selected</b> button on top
+						<ul>
+							<li><b>Left click</b> select single item</li>
+							<li><b>Ctrl + Left click</b> add or remove item from selection</li> <i>(Cmd + Left click on Mac)</i>
+							
+							<li><b>Shift + Left click</b> select range, first and last</li>
+						</ul>
+					</li>
+					
+					<div class="sep2"></div>
+					<li><b>Stats</b> shows how many pages you stashed by age.<br />
+						You can delete stashed pages by clicking on trash icon when hovering any age row.<br />
+						<i>eg. Delete older than 60 days</i>
+					</li>
+					
+					<div class="sep2"></div>
+					<li>When importing, current pages will stay in stash. Extension will delete duplicates (by url) and keep newest.<br />
+						If you don't like that, simply delete all before importing.
+					</li>
+					<li>When in search mode, click on blue top bar surrounding input field to return to normal view or press ESC key while search field is in focus.</li>
+					<li>Keyboard shortcut for opening sidebar is ALT+1, and for tab view is ALT+2<br />
+						You can change that shortcut in browser <b>Configure shortcuts page</b><br />
+						
+                    </li>
+                    <br />
+					<i><b>As of October 2019. Opera is merging extensions sidebar with sidebar (web UI) in developer version, and shortcuts for sidebar extensions are broken, for now.</b></i><br />
+					<i>Shortcut for sidebar won't work if extension bar is hidden</i><br />
+					<i>Extensions bar is vertical toolbar on the left, activated with Ctrl + Shift + S, not the dark WEB-UI sidebar with messengers, etc.... or whatever Opera is calling that...thing</i>
+					<br />
+					<br />
+
+				</ul>
+            </div>
+			
+            <div id="cred" class="panClass">
+                <br />
+                <br />
+                <img style="margin-left: 250px" src="img/leaf_logo.svg">
+                <li><span data-i18n="set_entypo"></span>&nbsp;<a href="http://www.entypo.com" target="_blank">Daniel Bruce</a></li>
+                <br />
+                <img src="img/np.png" style="margin-left: 230px">
+                <li><span data-i18n="set_npp"></span>&nbsp;<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a></li>
+                <br />
+                <img src="img/pn.png" style="margin-left: 190px"> <img src="img/ink.png" style="float:right; margin-right: 240px">
+                <li><span data-i18n="set_pnink"></span>&nbsp;<a href="http://www.getpaint.net/index.html" target="_blank">Paint.NET</a> & <a href="https://inkscape.org/en/" target="_blank">Inkscape</a></li>
+				<br />
+				<img src="img/s2g.png" style="margin-left: 240px">
+                <li><span data-i18n="set_s2g"></span>&nbsp;<a href="https://www.screentogif.com/" target="_blank">Screen2Gif</a></li>
+<!--                 <br />
+                <li><span data-i18n="set_transNfo"></span>&nbsp;<a href="https://drive.google.com/drive/folders/1NOw1gId_VKY1g0RvdQAZ4GHWrTXG8xZt?usp=sharing" target="_blank"><span data-i18n="set_transNfo1"></span></a></li>
+                <br /> -->
+                </br>
+				<b data-i18n="set_translators"></b>
+				<ul style="list-style-type: circle;">
+					<li><b>German:</b> MarkusMK</li>
+					<li><b>Serbian:</b> Daniel Ružić</li>
+
+				</ul>
+            </div>
+			
+            <div id="donate" class="panClass">
+                <br />
+                <p align="center" style="font-size: 22px; color: #002f86">Please consider donating.</p>
+                <p>You can donate with PayPal by clicking on image below. It will take you to unique PayPal page for all of my extensions.</p>
+                <div id="pp_link" class="pp">
+                </div>
+                <div class="sep2"></div>
+                <p>Or, if you prefer, you can donate using <b>Pay for Goods or Services</b> directly from your PayPal account to:</p>
+                <div class="em">v7addons@gmail.com</div>
+                <div class="em">Thank you.</div>
+                <br />
+                <br />
+            </div>
+			
+        </div>
+		
+    </div>
+
+    <script type="text/javascript" src="options.js"></script>
+</body>
+
+</html>

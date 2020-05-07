@@ -1,0 +1,254 @@
+{
+  "back": {
+    "message": "Zurück"
+  },
+  "confirm1": {
+    "message": "Alle Seiten löschen?"
+  },
+  "confirm2": {
+    "message": "Alle besuchten Seiten löschen?"
+  },
+  "credits": {
+    "message": "Credits"
+  },
+  "ctf": {
+    "message": "Aktualisieren"
+  },
+  "ctx": {
+    "message": "V7 Stash Hinzufügen / Entfernen"
+  },
+  "ctx2": {
+    "message": "V7 Stash Öffnen / Schließen"
+  },
+  "dd2": {
+    "message": "Alle löschen"
+  },
+  "dd3": {
+    "message": "Alle besuchten löschen"
+  },
+  "dd4": {
+    "message": "Zeige unbesuchte"
+  },
+  "dd6": {
+    "message": "Einstellungen"
+  },
+  "dd8": {
+    "message": "Listenansicht"
+  },
+  "dd9": {
+    "message": "Miniaturansicht"
+  },
+  "del": {
+    "message": "Löschen"
+  },
+  "early_t_m": {
+    "message": "Früher in diesem Monat"
+  },
+  "l7d": {
+    "message": "Letzte 7 Tage"
+  },
+  "lm_c": {
+    "message": "V7 Stash für Chrome"
+  },
+  "lm_f": {
+    "message": "V7 Stash für Firefox"
+  },
+  "lm_o": {
+    "message": "V7 Stash für Opera"
+  },
+  "m_1": {
+    "message": "Januar"
+  },
+  "m_2": {
+    "message": "Februar"
+  },
+  "m_3": {
+    "message": "März"
+  },
+  "m_4": {
+    "message": "April"
+  },
+  "m_5": {
+    "message": "Mai"
+  },
+  "m_6": {
+    "message": "Juni"
+  },
+  "m_7": {
+    "message": "Juli"
+  },
+  "m_8": {
+    "message": "August"
+  },
+  "m_9": {
+    "message": "September"
+  },
+  "m_10": {
+    "message": "Oktober"
+  },
+  "m_11": {
+    "message": "November"
+  },
+  "m_12": {
+    "message": "Dezember"
+  },
+  "ont": {
+    "message": "In neuem Tab öffnen"
+  },
+  "opis": {
+    "message": "Seiten zum späteren Lesen speichern"
+  },
+  "otv": {
+    "message": "V7 Stash in Tab-Ansicht öffnen"
+  },
+  "ovs": {
+    "message": "V7 Stash Seitenleiste öffnen"
+  },
+  "set_alert1": {
+    "message": "Falsche Datei! Bitte wähle ein korrekte V7 Stash-Datei."
+  },
+  "set_alert2": {
+    "message": "Dies ist eine alte V7 Stash-Datei."
+  },
+  "set_alert3": {
+    "message": "Bilder sind aufgrund von Inkompatibilitäten nicht verfügbar."
+  },
+  "set_changelog": {
+    "message": "Changelog"
+  },
+  "set_donate": {
+    "message": "Spenden"
+  },
+  "set_e1": {
+    "message": "Exportieren"
+  },
+  "set_entypo": {
+    "message": "Das Blatt (Hauptsymbol) ist Teil der Entypo-Piktogramme von"
+  },
+  "set_how_to": {
+    "message": "Hilfe"
+  },
+  "set_i1": {
+    "message": "Importieren"
+  },
+  "set_my_addons": {
+    "message": "Meine Apps"
+  },
+  "set_npp": {
+    "message": "Das gesamte Programm wurde geschrieben in:"
+  },
+  "set_op1": {
+    "message": "Mit Linksklick immer in neuem Tab öffnen"
+  },
+  "set_op2": {
+    "message": "Mit Strg + Linksklick in neuem Tab öffnen (Cmd + Linksklick auf Mac)"
+  },
+  "set_op3": {
+    "message": "Kontextmenübefehl hinzufügen"
+  },
+  "set_op4": {
+    "message": "Dunkles Design"
+  },
+  "set_op5": {
+    "message": "Seitenleiste automatisch ausblenden beim Verlassen"
+  },
+  "set_op5_1": {
+    "message": "Dies schließt die Seitenleiste, wenn Sie irgendwo außerhalb klicken."
+  },
+  "set_op6": {
+    "message": "Öffnet einen neuen Tab neben dem aktuellen"
+  },
+  "set_op7": {
+    "message": "Öffnet die 'Drag-Out'-Seiten in einem neuen aktiven Tab"
+  },
+  "set_p": {
+    "message": "V7 Stash Einstellungen"
+  },
+  "set_pnink": {
+    "message": "Alle Grafiken (außer zuvor erwähnte) wurden erstellt mit:"
+  },
+  "set_s2g": {
+    "message": "Gif-Beispiele wurden erstellt mit: "
+  },
+  "set_stats": {
+    "message": "Statistik"
+  },
+  "set_trStats": {
+    "message": "Lösche älter als"
+  },
+  "set_transNfo": {
+    "message": "Wenn Sie die Erweiterung in Ihre Sprache übersetzen möchten, laden Sie bitte die Anweisungsdateien herunter "
+  },
+  "set_transNfo1": {
+    "message": "von hier"
+  },
+  "set_translators": {
+    "message": "Übersetzer:"
+  },
+  "set_trash": {
+    "message": "Papierkorb"
+  },
+  "set_trop1": {
+    "message": "Papierkorb leeren"
+  },
+  "set_trop2": {
+    "message": "Ausgewählte wiederherstellen"
+  },
+  "set_version": {
+    "message": "Version "
+  },
+  "set_w1": {
+    "message": "Untergebrachte Seiten"
+  },
+  "set_w2": {
+    "message": "Älter als..."
+  },
+  "set_w3": {
+    "message": "7 Tage"
+  },
+  "set_w4": {
+    "message": "15 Tage"
+  },
+  "set_w5": {
+    "message": "30 Tage"
+  },
+  "set_w6": {
+    "message": "60 Tage"
+  },
+  "set_w7": {
+    "message": "90 Tage"
+  },
+  "set_w8": {
+    "message": "Anzahl der Seiten"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "sph": {
+    "message": "Suchen..."
+  },
+  "today": {
+    "message": "Heute"
+  },
+  "tr_emty_1": {
+    "message": "Hier finden Sie Ihre gelöschten Seiten,"
+  },
+  "tr_emty_2": {
+    "message": "aber nur während der aktuellen Browsersitzung"
+  },
+  "v7": {
+    "message": "V7 Stash"
+  },
+  "v7add": {
+    "message": "Zu V7 Stash hinzufügen"
+  },
+  "v7remove": {
+    "message": "Aus V7 Stash entfernen"
+  },
+  "v7s": {
+    "message": "V7 Stash Seitenleiste"
+  },
+  "yesterday": {
+    "message": "Gestern"
+  }
+}
